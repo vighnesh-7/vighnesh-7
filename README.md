@@ -1,7 +1,7 @@
 
 # Hi there 👋
 I'm currently working on developing our startup, **Tutly**, a robust Learning Management Platform (LMS). 
-You can check it out [here](https://learn.tutly.in/signin?callbackUrl=%2F).
+You can check it out ![here](https://learn.tutly.in/signin?callbackUrl=%2F).
 
 I specialize in **Next.js** web development.
 
@@ -9,11 +9,11 @@ Feel free to connect with me!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshvangari) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshvangari)   
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vighnesh_7)
 
  ## 💻 Portfolio:
- - Visit my [Portfolio](https://vighnesh-vangari.vercel.app/) for more details about me.
+ - Visit my ![Portfolio](https://vighnesh-vangari.vercel.app/) for more details about me.
  
 
 # 🛠️ Tech Stack:
@@ -31,6 +31,7 @@ Feel free to connect with me!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 
