@@ -1,7 +1,8 @@
 
 # Hi there 👋
 I'm currently working on developing our startup, **Tutly**, a robust Learning Management Platform (LMS). 
-You can check it out ![here](https://learn.tutly.in/signin?callbackUrl=%2F).
+You can check it out <a href="https://learn.tutly.in" target="_blank">here</a>.
+
 
 I specialize in **Next.js** web development.
 
@@ -13,7 +14,7 @@ Feel free to connect with me!
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vighnesh_7)
 
  ## 💻 Portfolio:
- - Visit my ![Portfolio](https://vighnesh-vangari.vercel.app/) for more details about me.
+ - Visit my <a href="https://vighnesh-vangari.vercel.app/" target="_blank">Portfolio</a> for more details about me.
  
 
 # 🛠️ Tech Stack:
