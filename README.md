@@ -14,7 +14,7 @@ Feel free to connect with me!
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vighnesh_7)
 
  ## 💻 Portfolio:
- - Visit my [![Portfolio](https://vighnesh-vangari.vercel.app/) for more details about me.
+ - Visit my [Portfolio](https://vighnesh-vangari.vercel.app/) for more details about me.
  
 
 # 🛠️ Tech Stack:
