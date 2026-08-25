@@ -1,10 +1,6 @@
 
 # Hi there 👋
-I'm currently working on developing our startup, **Tutly**, a robust Learning Management Platform (LMS). 
-You can check it out <a href="https://learn.tutly.in" target="_blank">here</a>.
-
-
-I specialize in **Next.js** web development.
+I'm a Software Engineer, specialized in **Next.js** and passionate about building impactful products, scalable web applications, and AI-driven systems. I enjoy working across full-stack development, cloud technologies, and agentic AI.
 
 Feel free to connect with me!
 
